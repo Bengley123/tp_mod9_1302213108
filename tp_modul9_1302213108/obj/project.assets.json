@@ -229,11 +229,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Folder kpl\\MOD9\\tp_modul9_1302213108\\tp_modul9_1302213108\\tp_modul9_1302213108.csproj",
+      "projectUniqueName": "D:\\Folder kpl\\tp9\\tp_mod9_1302213108\\tp_modul9_1302213108\\tp_modul9_1302213108.csproj",
       "projectName": "tp_modul9_1302213108",
-      "projectPath": "D:\\Folder kpl\\MOD9\\tp_modul9_1302213108\\tp_modul9_1302213108\\tp_modul9_1302213108.csproj",
+      "projectPath": "D:\\Folder kpl\\tp9\\tp_mod9_1302213108\\tp_modul9_1302213108\\tp_modul9_1302213108.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\Folder kpl\\MOD9\\tp_modul9_1302213108\\tp_modul9_1302213108\\obj\\",
+      "outputPath": "D:\\Folder kpl\\tp9\\tp_mod9_1302213108\\tp_modul9_1302213108\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
